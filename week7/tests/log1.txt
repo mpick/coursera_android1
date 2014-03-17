@@ -1,0 +1,4 @@
+03-16 22:19:30.054: I/Lab-Location(8587): Entered footerView.OnClickListener.onClick()
+03-16 22:19:30.054: I/Lab-Location(8587): Starting Place Download
+03-16 22:19:31.354: I/Lab-Location(8587): Entered addNewPlace()
+03-16 22:19:36.544: I/Lab-Location(8587): Place: Barber City Country: United States
